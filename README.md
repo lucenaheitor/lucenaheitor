@@ -1,6 +1,7 @@
 #
 
 Hi, my name is Heitor
+<br><br>
 I'm  a Software Developer
 
 <h2>About me</h2>
