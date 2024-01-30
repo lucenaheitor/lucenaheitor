@@ -1,8 +1,8 @@
 #
 
-Hi, my name is Heitor
-<br><br>
-I'm  a Software Developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=60&lines=Hi%2C+my+name+is+Heitor+Lucena;I'm+a+software+developer)](https://git.io/typing-svg)
+
+
 
 <h2>About me</h2>
 
