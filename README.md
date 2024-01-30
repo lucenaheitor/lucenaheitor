@@ -6,6 +6,7 @@ I'm  a Software Developer
 <h2>About me</h2>
 
 🖥️ 4th period of Bachelor's Degree - Computer Science
+<br><br>
 💻 future software engineer
 
 <h2>Status do Projeto</h2> 
