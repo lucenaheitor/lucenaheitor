@@ -8,6 +8,9 @@ I'm  a Software Developer
 
 <h2>About me</h2>
 
+Im Software Developer at  Mercado Livre
+<br><br>
+
 🖥️ 5th period of Bachelor's Degree - Computer Science
 <br><br>
 💻 future software engineer
