@@ -2,7 +2,7 @@
 
 Hi, my name is Heitor
 <br><br>
-I'm  a Software Developer
+
 
 
 
@@ -11,7 +11,7 @@ I'm  a Software Developer
 Im Software Developer at  Mercado Livre
 <br><br>
 
-🖥️ 5th period of Bachelor's Degree - Computer Science
+🖥️ 6th period of Bachelor's Degree - Computer Science
 <br><br>
 💻 future software engineer
 
