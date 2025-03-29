@@ -13,7 +13,7 @@ Im Software Developer at  Mercado Livre
 
 🖥️ 6th period of Bachelor's Degree - Computer Science
 <br><br>
-💻 Sofware Develop
+💻 Sofware Developer
 
 <h2>Status do Projeto</h2> 
 
